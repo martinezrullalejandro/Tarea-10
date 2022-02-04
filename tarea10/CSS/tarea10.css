@@ -1,0 +1,145 @@
+body
+{
+	background: #54c294  ;
+	font-family: Arial;
+	
+}
+.container
+{
+	
+  width: 960px;
+  margin:auto;
+  background: white;
+  border-radius:20px;
+}
+
+.header
+{}
+
+.header img
+{ 
+	height:70px;
+
+}
+
+.menu
+{
+	float:right;
+}
+
+.menu li
+{
+	display: inline-block;
+	margin-left:10px;
+}
+
+.menu a
+{
+	text-decoration: none;
+	color: #03a9ff;
+	padding: 5px;
+	
+}
+
+.menu a:hover{
+	border:2px solid blue;
+}
+
+.top
+{
+	
+}
+
+
+.top a:hover
+{	
+	background-color:grey;
+
+}
+
+.slider img
+{ 
+   width:960px;
+}
+
+
+.row
+{
+	
+	text-align: center;
+	background: #F0F0F0;
+	padding:5px;
+}
+
+.row2
+{
+	
+	text-align: center;
+	background: #b2eb69;
+	padding:5px;
+}
+
+
+.col
+{
+	width:260px;
+	display:inline-block;
+	padding:20px;
+}
+
+.col h2
+{
+	text-shadow: 0px 0px 10px red;
+}
+
+.col p
+{
+	text-align:justify;
+	
+}
+
+.article 
+{
+	width:400px;
+	padding:20px;
+	background:#a0a0a0;
+	display:inline-block;
+
+	
+}
+
+#lateral
+{
+	width: 150px;
+	height:150px;
+	border-radius: 150px;
+}
+.article
+{
+	text-align:center;
+	font-weight:bold;
+	width:450px;
+	
+}
+
+
+
+
+.footer
+{
+	overflow:hidden;
+}
+
+.footer a
+{
+	
+}
+
+.footer span
+{
+	
+}
+
+
+
+---------------
